@@ -119,10 +119,10 @@ Result:
 `git commit -m "add checklist structure"`\
 `git push --set-upstream origin CheckLists`
 
-9. На внешнем репозитории сделать Pull Request ветки CheckList в main\
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main\
 `Заходим на GitHub в наш репозиторий HW_2_GitHub`\
 Переходим в раздел `Pull Request`\
-В разделе `Compare changes` выбираем из какой ветки и в какую хотим сделать Pull Request `base: main` `compare: CheckList`\
+В разделе `Compare changes` выбираем из какой ветки и в какую хотим сделать Pull Request `base: main` `compare: CheckLists`\
 Нажимаем зеленую кнопку `Create pull request`\
 Пишем commit `add checklist structure` и нажимаем ниже еще раз `Create pull request`\
 Проверяем отсутствие конфликтов и нажимаем зеленую кнопку `Confirm merge`
