@@ -117,7 +117,7 @@ Result:
 8. Запушить структуру на внешний репозиторий\
 `git add checklist.txt`\
 `git commit -m "add checklist structure"`\
-`git push --set-upstream origin CheckList`
+`git push --set-upstream origin CheckLists`
 
 9. На внешнем репозитории сделать Pull Request ветки CheckList в main\
 `Заходим на GitHub в наш репозиторий HW_2_GitHub`\
